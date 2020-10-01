@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+  
+     <style>
+         .Hawaii {
+             background-color:yellow;
+         }
+         
+         .Mountains {
+             background-color:rgb(126, 255, 61);
+         }
+         
+         
+         #Niagra-Falls {
+             background-color:rgb(117, 172, 255);
+         }
+         
+         
+     </style>
+  
+  
+  
+    </head>
+
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <h2> Hawaii</h2>
+        <p>One of the places you can travel to is<strong class="Hawaii"> The Islands of Hawaii</strong>. In the islands of Hawaii, you can have lots of fun with playing in the beach and eat and drink some of the yummy food they have there! Some of the popular food they have there are: Loco moco,Shave Ice, and a lot more! </p>
+        <h3>Top 3 most famous food in Hawaii</h3>
+        <ol>
+            <li>Poke</li>
+            <li>Loco moco</li>
+            <li>Spam Musubi</li>
+            </ol>
+        
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="A beach in Hawaii" width="500">
+        
+     <h2> Mountains</h2>  
+     <p>Another place you can go to are the <strong class="Mountains">Mountains</strong>. There are a lot of types of Mountains located in lots of different places. So when you go to see the Mountains, you also get to look around in the place that it's located at! </p>
+     <h3>Top 3 Tallest Mountains</h3>
+     <ol>
+        <li> Mt.Everest</li>
+        <li>K2</li>
+        <li>Kangchenjunga</li>
+     </ol>
+     <img src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png" alt="A snowy Mountain" width="500">
+    
+    <h2>Niagra Falls</h2>
+    <p>The last place I am going to recommend you to go to, is <strong id="Niagra-Falls">Niagra Falls</strong>! Niagra Falls is a waterfall that's located in between North America and Canada. So people who go there can loot at it from Canada an from North America. You can also cross </p>
+    
+    <h3>Best things to do in Niagra Falls</h3>
+    <ul>
+    <li>Maid of the Mist</li>
+    <li>Butterfly Conservatory</li>
+    <li>Old Fort Niagra</li>
+    <li>And lots more!</li>
+    </ul>
+    <img src="https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png" alt="A picture of Niagra Falls">
+    </body>
+</html>
